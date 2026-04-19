@@ -9,3 +9,4 @@
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update
 
 ## Checking PR notification
+Just check
